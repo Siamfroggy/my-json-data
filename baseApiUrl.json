@@ -1,0 +1,5 @@
+{
+  "baseApiUrl": "https://api.pexels.com/v1/",
+  "apiKey": "DQDIImRX5dY99lv9JdCw9VFZ7b8T2OzqPlB8wxWRY7OCdcnI45QTtsZa",
+  "timeout": 5000
+}
